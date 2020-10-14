@@ -4,11 +4,11 @@ Utilizando o Vue.js, Axios, Eclipse e Tomcat. Crie um WebService REST para o rec
 Cada carro é composto pelas seguintes informações:
 
 ● Carro:
-○ Nome
-○ Marca
-○ Ano de Fabricação
-○ Ano de Modelo
-○ Data de Venda
+  ○ Nome
+  ○ Marca
+  ○ Ano de Fabricação
+  ○ Ano de Modelo
+  ○ Data de Venda
 
 ● Tudo é armazenado em memória. A seguir, são apresentados os requisitos da aplicação
 (em parêntese tem quanto vale cada item):
